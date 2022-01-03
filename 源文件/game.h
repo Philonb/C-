@@ -12,6 +12,9 @@ extern "C" {
   函数入口参数:无*/
 	extern void BallFlatthrow();
 	extern void JumpBall();
+	extern void RotateSnake();
+	extern void MovingRectangle();
+	extern void ThrowPins();
 #ifdef __cplusplus
 #if __cplusplus
 }

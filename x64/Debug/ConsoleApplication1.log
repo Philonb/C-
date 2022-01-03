@@ -1,3 +1,37 @@
-﻿  menu.c
-C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\menu.c(87): warning C4715: “gameboard”: 不是所有的控件路径都返回值
-  ConsoleApplication1.vcxproj -> C:\Users\86138\Desktop\VS项目\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(ConsoleApplication1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  game.cpp
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(73,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(73,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(111,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(111,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(112,16): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(187,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(187,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(187,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(188,79): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(188,65): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(188,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(188,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(224,27): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(228,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(248,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(249,44): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(250,50): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(380,29): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(397,29): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(434,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(436,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(451,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(451,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(465,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(465,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(471,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(490,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(491,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(495,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(495,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(498,38): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(507,49): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(507,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(508,38): warning C4305: “参数”: 从“double”到“float”截断
+  ConsoleApplication1.vcxproj -> C:\Users\86138\Desktop\VS项目\ConsoleApplication1\x64\Debug\Game.exe

@@ -24,6 +24,15 @@ int main(int argc, char *argv[])
 			case '2':
 				JumpBall();
 				break;
+			case '3':
+				RotateSnake();
+				break;
+			case '4':
+				MovingRectangle();
+				break;
+			case '5':
+				ThrowPins();
+				break;
 			case 'q':
 				system("cls");
 				return 0;
@@ -31,7 +40,6 @@ int main(int argc, char *argv[])
 				error();
 				break;
 			}
-			init();
 		}
 		break;
 	case '2':

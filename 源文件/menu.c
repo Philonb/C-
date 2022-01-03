@@ -70,20 +70,16 @@ char gameboard()
 	char game;
 	set_pos(8, 1);
 	printf("1:模拟小球平抛\n\
-	2:跳跃球");
+	2:跳跃球\n\
+	3:旋转蛇错觉\n\
+	4:移动方块错觉\n\
+	5:见缝插针");
 	set_pos(35, 29);
 	printf("q:退出");
 	set_pos(8, 0);
 	printf("请选择:");
 	scanf(" %c", &game);
-	switch (game)
-	{
-	case '1':case '2':case 'q':
 		return game;
-	default:
-		error();
-		break;
-	}
 }
 /*函数功能:打印输入错误信息
   函数入口参数:无
