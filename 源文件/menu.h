@@ -4,4 +4,6 @@ char menu(void);
 void init();
 char gameboard();
 void error();
+void help();
+void about();
 #endif

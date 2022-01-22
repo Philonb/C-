@@ -12,7 +12,6 @@ void set_color(UINT uFore,UINT uBack)
  HANDLE handle=GetStdHandle(STD_OUTPUT_HANDLE);
  SetConsoleTextAttribute(handle,uFore+uBack*0x10);
 }
-   
 /*函数功能:修改标题
   函数入口参数: 字符串常量 
   函数返回值:无 */
@@ -78,7 +77,7 @@ void hide_scroll_bar()
 /*函数功能:隐藏光标
   函数入口参数:无
   函数返回值:无 */
- void hide_console_cursor(VOID) 
+ void hide_console_cursor() 
  {
  CONSOLE_CURSOR_INFO cursor_info = {1, 0};
  SetConsoleCursorInfo(GetStdHandle(STD_OUTPUT_HANDLE), &cursor_info);
@@ -96,7 +95,7 @@ cfi.dwFontSize.X = x;                   // 字体宽度
 cfi.dwFontSize.Y = y;                  // 字体高度 
 cfi.FontFamily = FF_DONTCARE;
 cfi.FontWeight = FW_NORMAL;
-wcscpy_s(cfi.FaceName,19, L"Microsoft YaHei UI"); // Choose your 字体 
+wcscpy_s(cfi.FaceName,19, L"苹方-简"); // Choose your 字体 ,此处可以修改字体样式,将苹方-简改成想要用的字体名称即可
 SetCurrentConsoleFontEx(GetStdHandle(STD_OUTPUT_HANDLE), FALSE, &cfi);					  
 }
 

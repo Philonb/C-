@@ -1,0 +1,93 @@
+﻿  console_settings.c
+  main.c
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\main.c(10,7): warning C4101: “choose”: 未引用的局部变量
+  menu.c
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\menu.c(151,8): warning C4013: “_getch”未定义；假设外部返回 int
+  game.cpp
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(76,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(76,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(114,77): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(115,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(304,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(304,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(305,16): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(389,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(389,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(389,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(390,79): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(390,65): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(390,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(390,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(430,27): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(434,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(454,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(455,44): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(456,50): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(586,29): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(603,29): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(640,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(642,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(657,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(657,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(671,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(671,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(677,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(696,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(697,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(701,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(701,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(704,38): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(713,49): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(713,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(714,38): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(760,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(782,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(782,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(782,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(787,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(789,36): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(790,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(790,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(790,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(797,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(799,37): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(800,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(800,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(800,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(809,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(810,37): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(811,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(811,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(811,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(825,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(887,16): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(888,16): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(889,9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(892,71): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(892,60): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(892,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(904,71): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(904,60): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(904,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(912,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(913,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(914,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(996,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1035,53): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1035,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1041,60): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1041,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1383,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1385,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1385,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1385,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1387,104): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1387,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1387,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86138\Desktop\VS项目\ConsoleApplication1\源文件\game.cpp(1387,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  11 of 58 functions (19.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> C:\Users\86138\Desktop\VS项目\ConsoleApplication1\x64\Release\Game.exe

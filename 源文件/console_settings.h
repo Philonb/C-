@@ -2,7 +2,7 @@
 #define __CONSOLE_SETTINGS_H__
 #include <windows.h>
 void set_color(UINT uFore,UINT uBack);
-void set_title(LPCSTR lpTitle);
+void set_title(LPCWSTR lpTitle);
 void full_screen();
 void set_pos(int x, int y);
 void set_posC(COORD a);
